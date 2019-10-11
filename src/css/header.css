@@ -1,0 +1,53 @@
+#header{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    height: 12vh;
+}
+
+#logo, img {
+    flex: 2;
+    height: 100%;
+}
+
+div #header-links{
+    flex: 7;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+#header-links a{
+    padding: 2vh 45px;
+    border-left: 2px solid #DEDEDE ;
+    color: #2B2B2B;
+    font-size: 18px;
+    text-decoration: none;
+    
+}
+
+#a-right{
+    border-right: 2px solid #DEDEDE ;
+}
+
+#header-links a:hover{
+    color : #2F8370;
+    font-weight: bold;
+}
+
+#exit{
+    flex:1;
+    width: 110px;
+    border-left: 2px solid #DEDEDE ;
+    padding: 0.5vh 0;
+
+}
+
+#header-bar{
+    height: 5px;
+    background-color: #328C77;
+}

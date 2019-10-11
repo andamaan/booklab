@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bookLab/static/css/main.0dd50d9e.chunk.css",
+    "main.js": "/bookLab/static/js/main.f254e8b9.chunk.js",
+    "main.js.map": "/bookLab/static/js/main.f254e8b9.chunk.js.map",
+    "runtime~main.js": "/bookLab/static/js/runtime~main.8645ab31.js",
+    "runtime~main.js.map": "/bookLab/static/js/runtime~main.8645ab31.js.map",
+    "static/js/2.a4e00f57.chunk.js": "/bookLab/static/js/2.a4e00f57.chunk.js",
+    "static/js/2.a4e00f57.chunk.js.map": "/bookLab/static/js/2.a4e00f57.chunk.js.map",
+    "index.html": "/bookLab/index.html",
+    "precache-manifest.59ca7f0baaa6e147a4b9fdb75a3f8d09.js": "/bookLab/precache-manifest.59ca7f0baaa6e147a4b9fdb75a3f8d09.js",
+    "service-worker.js": "/bookLab/service-worker.js",
+    "static/css/main.0dd50d9e.chunk.css.map": "/bookLab/static/css/main.0dd50d9e.chunk.css.map",
+    "static/media/logIn.css": "/bookLab/static/media/bg-img.711dae70.svg",
+    "static/media/exit.svg": "/bookLab/static/media/exit.24bb8141.svg",
+    "static/media/logo.svg": "/bookLab/static/media/logo.9fc3657e.svg"
+  }
+}

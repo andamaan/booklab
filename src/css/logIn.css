@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+#log-in{
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    background-image: url("../img/bg-img.svg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+#log-form{
+    width: 350px;
+    position: absolute;
+    top: 350px;
+    left: 850px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+#log-form h1{
+    color: #2F8370;
+    font-size: 48px;
+    font-weight: normal;
+    text-align: center;
+    margin-left: 75px;
+}
+
+#log-form a {
+    margin-top: 15px;
+    padding: 10px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    font-size: 18px;
+    width: 80px;
+    text-decoration: none;
+    color: #000;
+    text-align: center;
+}
