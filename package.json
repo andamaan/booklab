@@ -2,7 +2,6 @@
 	"name": "booklab",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://andamaan.github.io/bookLab/",
 	"dependencies": {
 		"@reach/router": "^1.2.1",
 		"react": "^16.8.6",
@@ -11,7 +10,7 @@
 	},
 	"scripts": {
 		"start": "react-scripts start",
-		"build": "react-scripts build && cp -r build ./docs",
+		"build": "react-scripts build",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject"
 	},
